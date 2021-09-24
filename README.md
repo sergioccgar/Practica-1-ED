@@ -1,4 +1,4 @@
 ##### Practica-1-ED ####
 
 
-Practica 1 con Erick, Sergio y Luis 
+Practica 1 de Julián, Erick, Sergio y Luis 
